@@ -1,0 +1,1 @@
+This is for the Odin Google Homepage project.  The Project is to create something that looks like the Google Homepage but may not act like it using HTML and CSS.
