@@ -1,5 +1,18 @@
 <html>
     <style>
+        .right-align {
+            position: absolute;
+            right: 20px;
+            width: 100px;
+            }
+        .image-right {
+            position: absolute;
+            right: 120px;
+        }
+        .gmail-right {
+            position: absolute;
+            right: 180px;
+        }
         
     </style>
     <head>
@@ -9,12 +22,12 @@
     <header>
         <a style="color:black; text-decoration:underline;" id="About" href="#">About</a> 
         <a style="color:black; text-decoration:underline;" id="Store" href="#">Store</a> 
-        <a style="color:black; text-decoration:underline;" id="Gmail" href="#">Gmail</a>
-        <a style="color:black; text-decoration:underline;" id="Images" href="#">Images</a>
-        <button type="submit">Sign In</button>
+        <a style="color:black; text-decoration:underline;" class="gmail-right" id="Gmail" href="#">Gmail</a>
+        <a style="color:black; text-decoration:underline;" class="image-right" id="Images" href="#">Images</a>
+        <button class="right-align" type="submit">Sign In</button>
     </header>
        <p1>
-           Google
+            Google
        </p1>
        <input type="text">
        <button type="submit">Google Search</button>
