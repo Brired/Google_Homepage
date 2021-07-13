@@ -1,0 +1,28 @@
+.button-right {
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+    width: 100px;
+    cursor: pointer;
+    border: none;
+    background-color: royalblue;
+    color: white;
+}
+.gmail-right {
+    position: absolute;
+    right: 195px;
+    top: 15px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
+.image-right {
+    position: absolute;
+    right: 130px;
+    top: 15px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+}
+        
+        
