@@ -1,7 +1,7 @@
 .button-right {
     position: absolute;
     right: 10px;
-    top: 15px;
+    top: 20px;
     font-size: 14px;
     font-family: arial, sans-serif;
     width: 100px;
@@ -12,17 +12,42 @@
 }
 .gmail-right {
     position: absolute;
-    right: 195px;
-    top: 15px;
+    right: 240px;
+    top: 20px;
     font-size: 13px;
     font-family: Arial, sans-serif;
 }
 .image-right {
     position: absolute;
-    right: 130px;
-    top: 15px;
+    right: 180px;
+    top: 20px;
     font-size: 13px;
     font-family: Arial, sans-serif;
+}
+.google-apps {
+    position: absolute;
+    top: 18px;
+    right: 130px;
+    width: 20px;
+}
+.about-left {
+    position: absolute;
+    left: 30px;
+    top: 20px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
+.store-left {
+    position: absolute;
+    left: 80px;
+    top: 20px;
+    font-size: 14px;
+    font-family: arial, sans-serif;
+}
+.google {
+    position: absolute;
+    left: 500px;
+    top: 50px;
 }
         
         
