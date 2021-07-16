@@ -49,5 +49,72 @@
     left: 500px;
     top: 50px;
 }
-        
+.search-bar {
+    position: absolute;
+    left: 445px;
+    top: 150px;
+    width: 30%;
+}
+.search {
+    position: absolute;
+    left: 530px;
+    top: 200px;
+}
+.lucky {
+    position: absolute;
+    left: 650px;
+    top: 200px;
+}
+.ads {
+    position: absolute;
+    left: 30px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.business {
+    position: absolute;
+    left: 120px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.how-to {
+    position: absolute;
+    left: 200px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.carbon {
+    position: absolute;
+    left: 550px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.privacy {
+    position: absolute;
+    right: 170px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.terms {
+    position: absolute;
+    right: 105px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+.settings {
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+}
+
+
+
         
