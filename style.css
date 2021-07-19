@@ -1,5 +1,7 @@
 .button-right {
     position: relative;
+    float: right;
+    text-align: center;
     top: 20px;
     font-size: 14px;
     font-family: arial, sans-serif;
@@ -11,12 +13,14 @@
 }
 .gmail-right {
     position: relative;
+    float: right;
     top: 20px;
     font-size: 13px;
     font-family: Arial, sans-serif;
 }
 .image-right {
     position: relative;
+    float: right;
     top: 20px;
     font-size: 13px;
     font-family: Arial, sans-serif;
@@ -24,7 +28,7 @@
 .google-apps {
     position: relative;
     top: 18px;
-    right: 130px;
+    float: right;
     width: 20px;
 }
 .about-left {
@@ -42,9 +46,8 @@
     font-family: arial, sans-serif;
 }
 .google {
-    position: relative;
-    left: 500px;
-    top: 50px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .search-bar {
     position: relative;
